@@ -116,12 +116,14 @@ A fully containerized 3-tier blog platform (React + Node.js + PostgreSQL) deploy
 
 ## 💼 Experience
 
-**MOBA Mobile Automation Pvt Ltd** — QA Engineer *(Jul 2023 – Present)*
-Designed TestNG-Maven automation framework cutting repetitive QA effort by 80%. Security testing with Burp Suite; REST API testing with Postman; defect tracking in JIRA within Agile sprints.
+**MOBA Mobile Automation Pvt Ltd** — DevOps Engineer (Sep 2024 – Present)
+Built end-to-end CI/CD pipelines using Jenkins and GitHub Actions with GitOps deployments via ArgoCD to AWS EKS, cutting Docker build times by 60% and enabling zero-touch, git-push-to-production releases. Managed EKS clusters and Kubernetes workloads, provisioned infrastructure as code with Terraform, and embedded security scanning (Trivy, OWASP, SonarQube) directly into CI. Deployed Prometheus and Grafana for observability, and resolved a recurring production downtime issue via CloudWatch — reducing incidents from weekly to zero.
 
-**Nevina Infotech Pvt Ltd** — QA Engineer *(May 2022 – Jun 2023)*
-Functional, regression, and cross-browser testing for PWA and event organizer apps. Bug tracking via Trello/Mantis; daily Scrum standups.
+**MOBA Mobile Automation Pvt Ltd** — QA Engineer (Manual + Automation) (Jul 2023 – Aug 2024)
+Designed a TestNG-Maven automation framework, cutting regression testing effort by 80%. Performed security testing with Burp Suite and REST API testing with Postman, identifying XSS and injection vulnerabilities; tracked defects in JIRA within Agile sprints. Coordinated cross-team resolution of client-reported production incidents, cutting response time by ~30%.
 
+**Nevina Infotech Pvt Ltd** — QA Engineer (Manual Testing) (May 2022 – Jun 2023)
+Executed 200+ test cases per sprint across PWA and event-organizer apps — functional, regression, cross-browser, and compatibility testing — using Trello and Mantis for defect tracking within daily Scrum standups. Achieved zero post-release critical defects across 4 product launches.
 ---
 
 ## 📫 Let's Connect
