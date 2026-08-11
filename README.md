@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bhargav+Patel+%F0%9F%91%8B;DevOps+%26+Cloud+Engineer;GitOps+%7C+AWS+EKS+%7C+CI%2FCD+Pipelines;DevSecOps+%7C+Observability+%7C+IaC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bhargav+Patel+%F0%9F%91%8B;DevOps+%26+Cloud+Engineer;AWS+EKS+%7C+Kubernetes+%7C+CI%2FCD)](https://github.com/bhargav-patel3)
 
 ---
 
 ### 🚀 DevOps Engineer · AWS EKS · GitOps · DevSecOps · Observability
 
-DevOps Engineer with hands-on experience building end-to-end CI/CD pipelines on **AWS EKS** using **Jenkins**, **ArgoCD**, and **Kubernetes**. Implemented GitOps workflows with integrated DevSecOps tooling (Trivy, OWASP, SonarQube) and live observability via **Prometheus + Grafana**. Brings a quality-first mindset from 3 years in QA automation — strong cross-team incident communication.
+DevOps Engineer with hands-on experience building end-to-end CI/CD pipelines on **AWS EKS** using **Jenkins**, **ArgoCD**, and **Kubernetes**. Implemented GitOps workflows with integrated DevSecOps and observability to enable reliable, scalable deployments. Passionate about automation, infrastructure-as-code, and reducing deployment friction.
 
 ---
 
@@ -57,7 +57,7 @@ DevOps Engineer with hands-on experience building end-to-end CI/CD pipelines on 
 
 A production-grade travel platform showcasing a complete GitOps-driven delivery pipeline with end-to-end DevSecOps and observability baked in.
 
-- **CI Pipeline:** Parameterized Jenkins pipeline — Git checkout → Trivy filesystem scan → OWASP Dependency Check → SonarQube quality gate → parallel frontend/backend env setup → multi-stage Docker builds → tagged DockerHub push — zero manual steps.
+- **CI Pipeline:** Parameterized Jenkins pipeline — Git checkout → Trivy filesystem scan → OWASP Dependency Check → SonarQube quality gate → parallel frontend/backend env setup → multi-stage Docker builds → push to DockerHub with build-number tagging.
 - **CD Pipeline:** Tag-driven Jenkins pipeline auto-updates Kubernetes manifests, commits to GitHub, and triggers ArgoCD GitOps sync to AWS EKS with zero manual deployment steps.
 - **Observability:** Deployed Prometheus + Grafana on EKS with live dashboards tracking CPU, memory, and pod health; configured automated HTML email alerts per build.
 - **DevSecOps shift-left:** Trivy scans pre-build; OWASP checks pre-push — broken or vulnerable code never becomes a deployable image.
@@ -91,14 +91,19 @@ A fully containerized 3-tier blog platform (React + Node.js + PostgreSQL) deploy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhargav-patel3&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-patel3&layout=compact&theme=default&hide_border=true" height="165" />
+<a href="https://github.com/bhargav-patel3">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhargav-patel3&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170" />
+</a>
+
+<a href="https://github.com/bhargav-patel3">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-patel3&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" height="170" />
+</a>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bhargav-patel3&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bhargav-patel3&theme=dark&hide_border=true)](https://github.com/bhargav-patel3)
 
 </div>
 
@@ -108,7 +113,7 @@ A fully containerized 3-tier blog platform (React + Node.js + PostgreSQL) deploy
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhargav-patel3&theme=flat&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=bhargav-patel3&theme=dark&no-frame=true&column=6&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -117,13 +122,16 @@ A fully containerized 3-tier blog platform (React + Node.js + PostgreSQL) deploy
 ## 💼 Experience
 
 **MOBA Mobile Automation Pvt Ltd** — DevOps Engineer (Sep 2024 – Present)
-Built end-to-end CI/CD pipelines using Jenkins and GitHub Actions with GitOps deployments via ArgoCD to AWS EKS, cutting Docker build times by 60% and enabling zero-touch, git-push-to-production releases. Managed EKS clusters and Kubernetes workloads, provisioned infrastructure as code with Terraform, and embedded security scanning (Trivy, OWASP, SonarQube) directly into CI. Deployed Prometheus and Grafana for observability, and resolved a recurring production downtime issue via CloudWatch — reducing incidents from weekly to zero.
+
+Built end-to-end CI/CD pipelines using Jenkins and GitHub Actions with GitOps deployments via ArgoCD to AWS EKS, cutting Docker build times by 60% and enabling zero-touch, git-push-to-production releases. Implemented DevSecOps practices with Trivy, OWASP Dependency Check, and SonarQube quality gates; deployed Prometheus + Grafana for multi-cluster observability with automated alerting.
 
 **MOBA Mobile Automation Pvt Ltd** — QA Engineer (Manual + Automation) (Jul 2023 – Aug 2024)
-Designed a TestNG-Maven automation framework, cutting regression testing effort by 80%. Performed security testing with Burp Suite and REST API testing with Postman, identifying XSS and injection vulnerabilities; tracked defects in JIRA within Agile sprints. Coordinated cross-team resolution of client-reported production incidents, cutting response time by ~30%.
+
+Designed a TestNG-Maven automation framework, cutting regression testing effort by 80%. Performed security testing with Burp Suite and REST API testing with Postman, identifying XSS and injection vulnerabilities. Collaborated with DevOps to integrate automated tests into CI/CD pipelines via Jenkins and GitHub Actions.
 
 **Nevina Infotech Pvt Ltd** — QA Engineer (Manual Testing) (May 2022 – Jun 2023)
-Executed 200+ test cases per sprint across PWA and event-organizer apps — functional, regression, cross-browser, and compatibility testing — using Trello and Mantis for defect tracking within daily Scrum standups. Achieved zero post-release critical defects across 4 product launches.
+
+Executed 200+ test cases per sprint across PWA and event-organizer apps — functional, regression, cross-browser, and compatibility testing — using Trello and Mantis for defect tracking within daily standups and sprint cycles.
 
 ---
 
