@@ -124,6 +124,7 @@ Designed a TestNG-Maven automation framework, cutting regression testing effort 
 
 **Nevina Infotech Pvt Ltd** — QA Engineer (Manual Testing) (May 2022 – Jun 2023)
 Executed 200+ test cases per sprint across PWA and event-organizer apps — functional, regression, cross-browser, and compatibility testing — using Trello and Mantis for defect tracking within daily Scrum standups. Achieved zero post-release critical defects across 4 product launches.
+
 ---
 
 ## 📫 Let's Connect
