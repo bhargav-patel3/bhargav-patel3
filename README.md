@@ -129,7 +129,7 @@ Functional, regression, and cross-browser testing for PWA and event organizer ap
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhargav-patel-devops)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bj99780@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhargavpatel3027@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/bhargav-patel3)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=bhargav-patel3.bhargav-patel3)
